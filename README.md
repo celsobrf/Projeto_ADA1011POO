@@ -4,6 +4,10 @@
 - POO
 # Instrutor:
 - Roberto Pontes
-# Componente:
-- Celso Romero
-- 
+# Grupo 03:
+- Celso Boulhosa RomeroFilho
+- Leonardo Figueira Zipolli
+- Louise Silva Ferreira
+- Marcello Dias Moreira da Silva
+- Pedro Mateus de Sousa Teixeira
+- Raiany Assis de Oliveira
